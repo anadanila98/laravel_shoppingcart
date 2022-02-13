@@ -1,0 +1,21 @@
+.container {
+    margin: 0 auto;
+    float: right;
+}
+
+.thumbnail img {
+    max-height: 150px;
+}
+
+.thumbnail {
+    max-width: 200px;
+}
+
+.thumbnail .description {
+    color: dimgray;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 16px;
+}
